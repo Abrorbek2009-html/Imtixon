@@ -1,0 +1,154 @@
+header {
+    background-color: rgb(219, 219, 219);
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.der {
+    display: flex;
+    gap: px;
+    margin-left: 200px;
+}
+
+.but {
+    display: flex;
+    gap: 70px;
+    align-items: center;
+}
+
+.poo {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.fel {
+    margin-top: 15px;
+    margin-right: 200px;
+}
+
+.ggg:hover {
+    background-color: orange;
+    border: 1px solid;
+    border-radius: 20px;
+    font-weight: 600;
+    padding: 15px;
+    cursor: pointer;
+    box-shadow: 3px 3px 1px 0px blue;
+}
+
+main {
+    background-color: rgb(141, 140, 140);
+}
+
+.none {
+    max-width: max-content;
+    border: 2px solid;
+    border-radius: 45px;
+    padding: 25px;
+    word-spacing: 5px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.none:hover {
+    background-color: orange;
+    cursor: pointer;
+    box-shadow: 3px 3px 1px 0px blue;
+}
+
+.dass {
+    width: 300px;
+    height: 450px;
+    background-color: #000;
+}
+
+.dass:hover {
+    background-color: orange;
+
+    border: 10px solid blue;
+
+
+
+}
+
+.boon {
+    width: 300px;
+    height: 130px;
+    border: 1px solid;
+    background-color: black;
+}
+
+.boon:hover {
+    background-color: rgb(4, 4, 102);
+
+    box-shadow: 5px 5px 2px 4px rgb(255, 174, 0);
+
+}
+
+
+
+
+
+
+
+.gg{
+    width: 200px;
+    height: 40px;
+    padding:10px;
+    border: 2px solid;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin-left: 450px;
+    text-align: center;
+    align-items: center;
+  
+    
+}
+
+
+
+
+.gg:hover {
+    background-color: orange;
+    border: 1px solid;
+    border-radius: 40px;
+    color: black;
+    font-weight: 600;
+    padding: 15px;
+    cursor: pointer;
+    box-shadow: 3px 3px 1px 0px rgb(1, 1, 9);
+}
+.ggb{
+    width: 200px;
+    height: 40px;
+    padding:10px;
+    border: 2px solid;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin-left:40px ;
+    text-align: center;
+    align-items: center;
+}
+    .ggb:hover {
+    background-color: orange;
+    border: 1px solid;
+    border-radius: 40px;
+    color: black;
+    font-weight: 600;
+    padding: 15px;
+    cursor: pointer;
+    box-shadow: 3px 3px 1px 0px rgb(1, 1, 9);
+}
